@@ -244,8 +244,8 @@ export default class Board {
       return;
     }
 
-    this.ghostEl.style.top = `${event.pageY}px`;
-    this.ghostEl.style.left = `${event.pageX}px`;
+    this.ghostEl.style.top = `${event.pageY - this.top}px`;
+    this.ghostEl.style.left = `${event.pageX - this.left}px`;
   }
 
   mouseUp() {
