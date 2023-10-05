@@ -1,8 +1,8 @@
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/msoqsoomtrx7qhv6/branch/master?svg=true)](https://ci.appveyor.com/project/serpensmaru/dnd-dep/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/76i9aa4ki97mvbff/branch/main?svg=true)](https://ci.appveyor.com/project/serpensmaru/dnd/branch/main)
 
-![CI](https://github.com/serpensmaru/dnd-dep/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/serpensmaru/dnd/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 
