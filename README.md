@@ -2,7 +2,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/76i9aa4ki97mvbff/branch/main?svg=true)](https://ci.appveyor.com/project/serpensmaru/dnd/branch/main)
 
-![CI](https://github.com/serpensmaru/dnd/actions/workflows/web.yml/badge.svg)
+https://github.com/serpensmaru/dnd.git
+
 
 Правила сдачи задания:
 
